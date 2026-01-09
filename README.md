@@ -2,7 +2,8 @@
 
 A clean, comfortable Obsidian theme with a carefully crafted color palette inspired by Nordic design principles.
 
-![Cursor Theme Preview](screenshot.png)
+<img width="1582" height="1034" alt="Screenshot 2026-01-09 at 2 14 44 AM" src="https://github.com/user-attachments/assets/ebea508a-eefd-4aff-bb53-d816efc26d9e" />
+
 
 ## Features
 
