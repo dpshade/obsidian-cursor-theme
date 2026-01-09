@@ -78,8 +78,12 @@ Issues and pull requests are welcome! Please open an issue first to discuss what
 
 ## Credits
 
-- Color palette inspired by the [OpenCode](https://opencode.ai) theme
+- Color palette inspired by [OpenCode](https://opencode.ai) theme
 - Built following [Obsidian theme guidelines](https://docs.obsidian.md/Themes/App+themes/Build+a+theme)
+
+## Support
+
+Enjoy the theme? Consider [supporting me on Ko-Fi](https://ko-fi.com/dpshade)!
 
 ## License
 

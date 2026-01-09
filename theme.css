@@ -640,6 +640,23 @@ input[type="range"]::-webkit-slider-thumb {
   border-radius: var(--checkbox-radius);
 }
 
+/* Toggle switch styling */
+.toggle-control {
+  border-radius: var(--toggle-radius);
+}
+
+.toggle-control .toggle-switch {
+  border-radius: var(--toggle-radius);
+}
+
+.toggle-control .toggle-slider {
+  border-radius: var(--toggle-radius);
+}
+
+.toggle-control .toggle-thumb {
+  border-radius: var(--toggle-thumb-radius);
+}
+
 /* Graph view node labels */
 .graph-view .node text {
   fill: var(--text-normal);
