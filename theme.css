@@ -120,8 +120,8 @@ settings:
   --background-secondary: var(--cursor-dark-panel);
   --background-secondary-alt: #0f0f0f;
   --background-modifier-border: var(--cursor-dark-border-active);
-  --background-modifier-form-field: rgba(0, 0, 0, 0.3);
-  --background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.22);
+  --background-modifier-form-field: rgba(0, 0, 0, 0.5);
+  --background-modifier-form-field-highlighted: var(--cursor-dark-element);
   --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
   --background-modifier-success: var(--cursor-dark-green);
   --background-modifier-error: #3d0000;
@@ -138,7 +138,7 @@ settings:
   --text-error-hover: var(--cursor-dark-red-bright);
   --text-accent: var(--cursor-dark-cyan);
   --text-accent-hover: #9fd1df;
-  --text-on-accent: var(--cursor-dark-fg);
+  --text-on-accent: #141414;
   --text-selection: rgba(136, 192, 208, 0.25);
   --text-highlight-bg: rgba(241, 180, 103, 0.35);
   --text-highlight-bg-active: rgba(241, 180, 103, 0.5);
@@ -304,7 +304,7 @@ settings:
   --text-error-hover: var(--cursor-light-red-bright);
   --text-accent: var(--cursor-light-teal);
   --text-accent-hover: #5a8690;
-  --text-on-accent: #ffffff;
+  --text-on-accent: #141414;
   --text-selection: rgba(111, 155, 166, 0.25);
   --text-highlight-bg: rgba(192, 133, 50, 0.25);
   --text-highlight-bg-active: rgba(192, 133, 50, 0.4);
